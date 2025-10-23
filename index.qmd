@@ -9,7 +9,14 @@ about:
 :::{#me}
 
 This is an example website for BIOL 806
+
 ## Goals
+
+- Finish PhD
+- Get a cool job 
+
+
+
 
 
 
