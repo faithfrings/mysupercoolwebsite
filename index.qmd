@@ -8,17 +8,16 @@ about:
 
 :::{#me}
 
-
+This is an example website for BIOL 806
 ## Goals
 
-My goal is to be a biology professor :)
+
 
 
 ## Education
 
-MS from USF 
 
-BS in Marine Biology from USF
+
 
 ## Experience
 
