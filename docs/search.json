@@ -14,11 +14,18 @@
     "text": "Finish PhD\nGet a cool job"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "About Me",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "MS from USF\nBS in Marine Biology from USF"
+    "text": "This is an example project"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example project"
   },
   {
     "objectID": "projects.html#project-2",
